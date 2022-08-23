@@ -1,6 +1,6 @@
 # My computer
 
-[![My Computer](blue.png)](https://github.com/esyspeak/my.computer)
+[![My Computer](blue.png)](https://computersolve.com/my-computer/)
 
 My Computer is a Microsoft Windows feature first found in Windows 95 and included with all later versions that lets you explore and manage the contents of your computer drives. The image shows examples of the My Computer icon in Microsoft Windows XP, Vista and Windows 7, and the "This PC" icon in Windows 8 and in Windows 10. Although the name has changed, "This PC" still has the same functionality as "My Computer."
 
